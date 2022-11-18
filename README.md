@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ComfyB
-- 👀 I’m interested in Embedded systems. 
+- 👀 I’m interested in Embedded systems, gaming, music.  
 - 🌱 I’m currently learning C++, C# rust, electronics. 
 
 <!---
