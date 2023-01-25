@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ComfyB
-- 👀 I’m interested in Embedded systems, gaming, music.  
-- 🌱 I’m currently learning C++, C# rust, electronics. 
+- 👋 Hi, I’m Christoffer Lehre
+- 🌱 I’m currently learning rust, C++, electronics. 
 
 <!---
 ComfyB/ComfyB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
